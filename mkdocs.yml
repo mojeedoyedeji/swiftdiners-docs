@@ -54,7 +54,7 @@ nav:
       - Webhooks & Events: api-docs/webhooks.md
       - Rate Limits & Errors: api-docs/errors.md
   - Deployment & Configuration:
-      - Installing SwiftDiner: deployment/install.md
+      - Installing SwiftDiners: deployment/install.md
       - Environment Variables: deployment/env-vars.md
       - Database Setup & Migrations: deployment/database.md
       - Hosting & Deployment: deployment/hosting.md
