@@ -1,1 +1,1 @@
-# Payments
+# Payment Methods & Refunds
