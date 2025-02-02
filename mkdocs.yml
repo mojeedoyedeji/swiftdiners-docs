@@ -47,9 +47,10 @@ nav:
   - API Documentation:
       - Overview: api-docs/overview.md
       - Authentication & Authorization: api-docs/auth.md
-      - Endpoints for SMEs: api-docs/sme-endpoints.md
-      - Endpoints for Customers: api-docs/customer-endpoints.md
-      - Endpoints for Delivery Services: api-docs/delivery-endpoints.md
+      - Endpoints:
+          - Businesses: api-docs/endpoints/businesses.md
+          - Customers: api-docs/endpoints/customers.md
+          - Delivery: api-docs/endpoints/delivery.md
       - Webhooks & Events: api-docs/webhooks.md
       - Rate Limits & Errors: api-docs/errors.md
   - Deployment & Configuration:
