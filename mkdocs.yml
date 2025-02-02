@@ -1,6 +1,6 @@
 site_name: SwiftDiner Docs
 theme:
-  name: material
+  name: readthedocs
   highlightjs: true
 
 plugins:
