@@ -25,7 +25,7 @@ nav:
       - User Roles & Permissions: getting-started/user-roles.md
   - User Guide:
       - Food SMEs:
-          - Setting Up a Business Profile: user-guide/food-sme/profile.md
+          - Setting up a Business Profile: user-guide/food-sme/profile.md
           - Managing Menu Items: user-guide/food-sme/menu.md
           - Receiving & Managing Orders: user-guide/food-sme/orders.md
           - Payments & Payouts: user-guide/food-sme/payments.md
