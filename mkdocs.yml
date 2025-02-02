@@ -1,4 +1,7 @@
 site_name: SwiftDiner Docs
+site_url: https://swfitdiner.readthedocs.io/
+repo_url: https://github.com/mojeedoyedeji/swiftdiner-docs
+docs_dir: source
 theme:
   name: readthedocs
   nav_style: dark
